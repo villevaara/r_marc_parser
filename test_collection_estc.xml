@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?><marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+<marc:record>
+  <marc:leader>01441cam a2200265   4500</marc:leader>
+  <marc:controlfield tag="001">006000000</marc:controlfield>
+  <marc:controlfield tag="003">Uk-ES</marc:controlfield>
+  <marc:controlfield tag="005">20070905112000.0</marc:controlfield>
+  <marc:controlfield tag="008">031119s1787    enk||||       00| | eng c</marc:controlfield>
+  <marc:datafield tag="035" ind1=" " ind2=" ">
+    <marc:subfield code="a">(CU-RivES)N72335</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="040" ind1=" " ind2=" ">
+    <marc:subfield code="a">CU-RivES</marc:subfield>
+    <marc:subfield code="c">CU-RivES</marc:subfield>
+    <marc:subfield code="d">CU-RivES</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="130" ind1="0" ind2=" ">
+    <marc:subfield code="a">Bible.</marc:subfield>
+    <marc:subfield code="l">English.</marc:subfield>
+    <marc:subfield code="p">Authorised.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="1" ind2="4">
+    <marc:subfield code="a">The Christian's new and complete family Bible;</marc:subfield>
+    <marc:subfield code="b">or, universal library of divine knowledge. Containing the whole of the sacred text of the Holy Bible, as contained in the Old and New Testaments, with the Apocrypha, at large. Illustrated with annotations and commentaries .. By the Rev. Thomas Bankes, ...</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="260" ind1=" " ind2=" ">
+    <marc:subfield code="a">London :</marc:subfield>
+    <marc:subfield code="b">printed for J. Cooke; and sold by the booksellers of Bath, Br[istol,] Birmingham, Canterbury, Cambridge, [and 9 other towns in England] and by all ot[her bo]oksellers in Great-Britain,</marc:subfield>
+    <marc:subfield code="c">[1787?]</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">[No pagination provided] ;</marc:subfield>
+    <marc:subfield code="c">2⁰.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">The Authorised version.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">Revelation ends on 9P2, followed by indexes, tables, and a list of subscribers ending on e3.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">The N.T. has a separate titlepage.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">With plates 'Engraved for the Revd. T. Bankes's Christian's family Bible'.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="500" ind1=" " ind2=" ">
+    <marc:subfield code="a">'There are at least three varieties of this edition [sic]' (Darlow &amp; Moule).</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="510" ind1="4" ind2=" ">
+    <marc:subfield code="a">Darlow &amp; Moule,</marc:subfield>
+    <marc:subfield code="c">1341</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="630" ind1="0" ind2="0">
+    <marc:subfield code="a">Bible</marc:subfield>
+    <marc:subfield code="x">Commentaries.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="648" ind1=" " ind2="7">
+    <marc:subfield code="a">1701-1800</marc:subfield>
+    <marc:subfield code="2">local</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="700" ind1="1" ind2=" ">
+    <marc:subfield code="a">Bankes, Thomas,</marc:subfield>
+    <marc:subfield code="d">1744-</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="752" ind1=" " ind2=" ">
+    <marc:subfield code="a">Great Britain</marc:subfield>
+    <marc:subfield code="b">England</marc:subfield>
+    <marc:subfield code="d">Löndön.</marc:subfield>
+  </marc:datafield>
+</marc:record>
+</marc:collection>

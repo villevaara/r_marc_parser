@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<collection xmlns=\"http://www.loc.gov/MARC21/slim\">\n  <record>\n    <leader>00698cas a2200217 i 4500</leader>\n    <controlfield tag=\"001\">210716</controlfield>\n    <controlfield tag=\"005\">20120402141528.0</controlfield>\n    <controlfield tag=\"007\">tu</controlfield>\n    <controlfield tag=\"008\">910421d17831783fi |||p| ||||||||||0swe| </controlfield>\n    <datafield tag=\"015\" ind1=\" \" ind2=\" \">\n      <subfield code=\"a\">fk00094</subfield>\n      <subfield code=\"2\">skl</subfield>\n    </datafield>\n    <datafield tag=\"035\" ind1=\" \" ind2=\" \">\n      <subfield code=\"a\">210716</subfield>\n    </datafield>\n    <datafield tag=\"041\" ind1=\"0\" ind2=\" \">\n      <subfield code=\"a\">swe</subfield>\n    </datafield>\n    <datafield tag=\"245\" ind1=\"0\" ind2=\"0\">\n      <subfield code=\"a\">Angenäma sjelfswåld.</subfield>\n    </datafield>\n    <datafield tag=\"260\" ind1=\" \" ind2=\" \">\n      <subfield code=\"a\">Åbo :</subfield>\n      <subfield code=\"b\">tryckt hos Kgl. Acad. boktr. J. C. Frenckells enka,</subfield>\n      <subfield code=\"c\">1783.</subfield>\n    </datafield>\n    <datafield tag=\"336\" ind1=\" \" ind2=\" \">\n      <subfield code=\"a\">Teksti</subfield>\n    </datafield>\n    <datafield tag=\"337\" ind1=\" \" ind2=\" \">\n      <subfield code=\"a\">ei välittävää laitetta</subfield>\n    </datafield>\n    <datafield tag=\"362\" ind1=\"0\" ind2=\" \">\n      <subfield code=\"a\">1783, 1-1783, 24.</subfield>\n    </datafield>\n    <datafield tag=\"500\" ind1=\" \" ind2=\" \">\n      <subfield code=\"a\">Painopaikka ja painaja kolofonista.</subfield>\n    </datafield>\n    <datafield tag=\"510\" ind1=\"4\" ind2=\" \">\n      <subfield code=\"a\">Suomen aikakauslehdistön bibliografia 1782-1955 / Kurikka &amp; Takkala</subfield>\n      <subfield code=\"c\">113.</subfield>\n    </datafield>\n    <datafield tag=\"650\" ind1=\" \" ind2=\"7\">\n      <subfield code=\"a\">aikakauslehdet</subfield>\n      <subfield code=\"2\">ysa</subfield>\n    </datafield>\n    <datafield tag=\"710\" ind1=\"0\" ind2=\" \">\n      <subfield code=\"a\">Johan Christopher Frenckellin leski (kirjapaino, Turku, 1779-1785)</subfield>\n    </datafield>\n  </record>\n</collection>\n",
+    "created" : 1482313794560.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2411296850",
+    "id" : "AB65498C",
+    "lastKnownWriteTime" : 1482313807,
+    "last_content_update" : 1482313807667,
+    "path" : "~/projects/comhis/marc_parser/fenni_test.xml",
+    "project_path" : "fenni_test.xml",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "xml"
+}
